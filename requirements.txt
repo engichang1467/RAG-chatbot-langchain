@@ -1,0 +1,9 @@
+langchain 
+langchain-community
+torch 
+transformers[torch] 
+sentence-transformers 
+datasets 
+faiss-cpu 
+gradio
+python-dotenv
